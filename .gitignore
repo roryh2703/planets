@@ -1,0 +1,6 @@
+*.dat
+results/
+*.data
+!final.data
+log_0*
+!log_01
